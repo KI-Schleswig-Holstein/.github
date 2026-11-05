@@ -27,6 +27,8 @@ Explore our repositories to discover our work and learn more about the AI soluti
 - **Website:** [kuenstliche-intelligenz.sh](https://kuenstliche-intelligenz.sh/)
 - **LinkedIn:** [KI.SH](https://www.linkedin.com/showcase/ki-transfer-hub-sh/)
 
+<div align="center">
 <img src="images/sh_de_rgb_bp_EU_KOFINANZIERT_LANDESREGIERUNG-01.png"
      alt="Kofinanziert von der Europäischen Union | Landesregierung Schleswig-Holstein"
      width="440">
+ </div>
