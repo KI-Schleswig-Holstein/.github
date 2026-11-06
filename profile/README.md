@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="images/logo-kish.jpg"
+<img src="images/KISH Logo freigestellt 500x500.png"
      alt="KI.SH Logo"
      width="220">
 
